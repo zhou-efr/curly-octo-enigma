@@ -1,0 +1,84 @@
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-15-1 added[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-21-11 added[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption successful[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption successful[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter warning
+WARNING: [0;33mIndividual meter A-21-11 was interrupted for the consumption of 500.0 kWh[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter warning
+WARNING: [0;33mMeter disabled due to consumption spike[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter warning
+WARNING: [0;33mMeter enabled[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption successful[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PostPaid, consumption=530.0 kWh, status=active, balance=250.0RM to pay, apartmentNumber='A-21-11'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PostPaid, consumption=10.0 kWh, status=active, balance=0.0RM left, apartmentNumber='A-15-1'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mtotal consumption: 540.0 kWh[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-15-1 {balance=0.0RM left, current consumption=10.0KWh}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividual meter A-15-1 was reset for the month 5/2022 with a balance of 0.0RM left and a consumption of 10.0[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-21-11 {balance=250.0RM to pay, current consumption=530.0KWh}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividual meter A-21-11 was reset for the month 5/2022 with a balance of 250.0RM to pay and a consumption of 530.0[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PrePaidStrategy, consumption=0.0 kWh, status=active, balance=250.0RM to pay, apartmentNumber='A-21-11'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PostPaid, consumption=0.0 kWh, status=active, balance=0.0RM left, apartmentNumber='A-15-1'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mtotal consumption: 0.0 kWh[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-420-3 added[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter warning
+WARNING: [0;33mMeter A-420-3 is deactivated due to insufficient funds[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption interrupted du to insufficient funds[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption successful[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-420-3 {balance=10.0RM to pay, current consumption=230.0KWh}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividual meter A-420-3 was topped up with 10.0 and the balance is now 0.0[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividual meter A-420-3 was reset for the month 5/2022 with a balance of 0.0RM left and a consumption of 230.0[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PrePaidStrategy, consumption=0.0 kWh, status=active, balance=250.0RM to pay, apartmentNumber='A-21-11'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PostPaid, consumption=0.0 kWh, status=active, balance=0.0RM left, apartmentNumber='A-15-1'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PrePaidStrategy, consumption=0.0 kWh, status=disabled, balance=0.0RM left, apartmentNumber='A-420-3'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mtotal consumption: 0.0 kWh[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-420-3 activated[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption successful[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption successful[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mConsumption successful[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mHistory of consumption and payments for individual meter A-420-3:
+MeterRecord[Date=5/2022, consumption=230.0, balance=0.0]
+[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-21-11 reset[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-15-1 reset[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mMeter for apartment A-420-3 reset[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PostPaid, consumption=0.0 kWh, status=active, balance=0.0RM left, apartmentNumber='A-21-11'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PostPaid, consumption=0.0 kWh, status=active, balance=0.0RM left, apartmentNumber='A-15-1'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mIndividualMeter{strategy=PostPaid, consumption=0.0 kWh, status=active, balance=0.0RM left, apartmentNumber='A-420-3'}[0m
+mai 17, 2022 9:12:21 AM Meters.MainMeter.MainMeter log
+INFO: [0;32mtotal consumption: 0.0 kWh[0m
